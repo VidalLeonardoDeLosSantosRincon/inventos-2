@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "nombre":"Luis",
+        "apellido":"Sanchez",
+        "empresa":"techSaint",
+        "cargo":"gerente"
+    },
+    {
+        "id":2,
+        "nombre":"Hector",
+        "apellido":"De la Cruz",
+        "empresa":"techSaint",
+        "cargo":"vendedor"
+    },
+    {
+        "id":3,
+        "nombre":"Sarah",
+        "apellido":"Lopez",
+        "empresa":"techSaint",
+        "cargo":"secretaria"
+    }
+]
